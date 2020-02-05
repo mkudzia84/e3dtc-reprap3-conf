@@ -1,0 +1,2 @@
+M150 R255 U0 B0 Y30 S15 F1                 ; Red on R
+M150 R30 U100 B255 Y30 S15 F0              ; Blue on L

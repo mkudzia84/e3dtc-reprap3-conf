@@ -10,8 +10,6 @@ M555 P2 						; Set firmware compatibility to look like Marlin
 
 ; Network
 M550 P"e3dtc" 										; Set machine name
-;M587 S"synergy-net" P"schweizer300"	    		; WiFi Settings
-;M552 S1 P"synergy-net"								; Enable WiFi Networking
 M552 S1							; Enable Networking
 M586 P0 S1 						; Enable HTTP
 M586 P1 S0 						; Disable FTP
